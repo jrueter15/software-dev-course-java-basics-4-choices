@@ -39,3 +39,5 @@ public class CollectionChoiceExercises {
         HashMap<String,String> accessCodes = new HashMap<>();
     }
 }
+
+// Wrote the variables, but didn't populate
