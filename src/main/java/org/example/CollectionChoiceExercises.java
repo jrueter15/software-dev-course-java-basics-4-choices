@@ -15,7 +15,7 @@ public class CollectionChoiceExercises {
         // Create an appropriate variable for holding a collection
         // of three strings that are known ahead of time to be "Red", "Green" and "Blue"
         // and will not change during program execution.
-        String[] colors;
+        String[] colors = {"Red", "Green", "Blue"};
     }
 
     public void MakeStudentCollection() {

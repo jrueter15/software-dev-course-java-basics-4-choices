@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b13f8ccd-818d-4d2e-a680-214593580794" name="Changes" comment="Worked on CollectionChoiceExercises">
+    <list default="true" id="b13f8ccd-818d-4d2e-a680-214593580794" name="Changes" comment="Wrote variables, but didn't populate">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionChoiceExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CollectionChoiceExercises.java" afterDir="false" />
     </list>
@@ -115,7 +115,23 @@
       <option name="project" value="LOCAL" />
       <updated>1754854753432</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Worked on CollectionChoiceExercises">
+      <option name="closed" value="true" />
+      <created>1755102434720</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1755102434720</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Wrote variables, but didn't populate">
+      <option name="closed" value="true" />
+      <created>1755102604513</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1755102604513</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +149,7 @@
     <MESSAGE value="Added collection choice exercises." />
     <MESSAGE value="Added example exercise and improved instructions." />
     <MESSAGE value="Worked on CollectionChoiceExercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Worked on CollectionChoiceExercises" />
+    <MESSAGE value="Wrote variables, but didn't populate" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wrote variables, but didn't populate" />
   </component>
 </project>
